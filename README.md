@@ -1,5 +1,7 @@
 # LR1
 
+![Scene preview](./Preview.png)
+
 Developed with Unreal Engine 4
 
 ЛР1. Первый проект в Unreal Engine 4 и GIT
